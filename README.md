@@ -144,10 +144,5 @@ Compares **monthly revenue and profit performance**.
 * Integrate **real-time data updates**
 * Build **interactive filters for deeper insights**
 
----
 
-## 👩‍💻 Author
 
-**Sejal Gholap**
-
-If you like this project, feel free to ⭐ the repository.
